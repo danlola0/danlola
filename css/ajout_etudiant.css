@@ -1,0 +1,63 @@
+body{
+background-color:darkgray;
+
+
+
+}
+
+
+.bar{
+
+width: 90px;
+height: 5x;
+border-radius: 5px;
+margin: 0.auto;
+padding-left: 300px;
+}
+
+.formulaire{
+width: 100%;
+height:100%;
+padding: 25px;
+align-items: center;
+padding-left: 100px;
+
+}
+
+.formulaire .form1{
+width: 90%;
+height: 100%;
+padding: 30px;
+border-radius: 30px;
+margin: 0.auto;
+display: table;
+box-shadow: inset 0 0 25px rgb(0, 0,0,0.2);
+
+}
+.input{
+  
+  width: 300px;
+  height: 40px;
+  outline: none;
+  border-radius: 6px;
+  border: 1px solid #e6e6e6;
+}
+label{
+  font-size: 19px;
+}
+form .h2{
+align-items: center;
+
+
+}
+
+.input1{
+  
+  width: 300px;
+  height: 40px;
+  outline: none;
+  border-radius: 6px;
+  border: 1px solid #e6e6e6;
+  color:#e6e6e6;
+  background-color:black; 
+}

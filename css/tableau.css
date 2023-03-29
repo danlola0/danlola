@@ -1,0 +1,42 @@
+.lien a{
+text-decoration: none;
+color: brown;
+justify-content: space-between;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+.ll{
+padding-left: 50px;
+padding-top: 10px;
+
+}
+
+.tableau{
+    border-collapse: collapse;
+    min-width: 150px;
+    width: auto;
+    box-shadow: 0 50px rgb(0,0, 0,0.15);
+    margin: 60px auto;
+    border: 2px solid cornflowerblue;
+    
+    }
+    
+    thead tr{
+    background-color: blue;
+    color: aliceblue;
+    text-align: left;
+    
+    
+    }
+    th,td {
+    padding: 10px 15px;
+    
+    }
+    td{
+
+        
+    }
